@@ -1,0 +1,4 @@
+Support,Confidence,Coverage,Strength,Lift,Leverage,Antecedent,Consequent
+continuous,continuous,continuous,continuous,continuous,continuous,string,string
+,,,,,,meta,meta
+0.361,0.999,0.361,1.531,1.804,0.161,"media=(328.25, 502.5]",Cluster=A
